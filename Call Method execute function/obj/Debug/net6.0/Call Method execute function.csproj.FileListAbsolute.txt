@@ -1,0 +1,15 @@
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.csproj.AssemblyReference.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.AssemblyInfoInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.AssemblyInfo.cs
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.csproj.CoreCompileInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\bin\Debug\net6.0\Call Method execute function.exe
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\bin\Debug\net6.0\Call Method execute function.deps.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\bin\Debug\net6.0\Call Method execute function.runtimeconfig.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\bin\Debug\net6.0\Call Method execute function.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\bin\Debug\net6.0\ref\Call Method execute function.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\bin\Debug\net6.0\Call Method execute function.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\ref\Call Method execute function.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\HW\Code\Call Method execute function\Call Method execute function\Call Method execute function\obj\Debug\net6.0\Call Method execute function.genruntimeconfig.cache
